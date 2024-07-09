@@ -28,7 +28,7 @@ When serializing Json, you can customize the date format.</PackageReleaseNotes>
   </ItemGroup>
   <ItemGroup Condition="'$(TargetFramework)' == 'netstandard2.0'">
     <PackageReference Include="System.Text.Json">
-      <Version>4.6.0</Version>
+      <Version>8.0.4</Version>
     </PackageReference>
   </ItemGroup>
 </Project>
